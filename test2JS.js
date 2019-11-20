@@ -1,0 +1,1 @@
+alert("Alert:Link 2");
